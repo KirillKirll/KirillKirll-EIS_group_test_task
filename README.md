@@ -1,6 +1,6 @@
 # https://csb-hbkyj.netlify.app/
 
-![alt text](Cнимок.PNG)
+![alt text](./Cнимок.PNG)
 
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
